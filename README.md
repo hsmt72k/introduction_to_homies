@@ -179,14 +179,16 @@ Homies
 
 ## <a name="example">アプリの利用サンプル</a>
 
-#####
+##### Homies 操作デモ
+<!-- ./images/homies_demo.mp4 -->
+<video src="https://github.com/user-attachments/assets/8e1b9099-2c7f-4e5f-afee-aa93b12a5c37" controls="true"></video>
+
+##### チャットデモ
 <!-- ./images/chat_demo.mp4 -->
-<video src="https://github.com/user-attachments/assets/e1e4d9a1-9f94-4c99-9e12-08e7d8e8906a" controls="true"></video>
+<video src="https://github.com/user-attachments/assets/702175ec-d0d2-4023-b661-aef60293928f" controls="true"></video>
 
 ## <a name="outro">🤸 おわりに</a>
 
-トーク番組的なポッドキャストを配信するアプリは数多くあります。AI で音声やサムネイルを自動生成することの強みを生かせば、そのような一般的なアプリとの差別化を図ることも可能です。
+物件エージェントとのチャットができる、家探しのプラットフォーム Homies を紹介しました。
 
-例えば、学んだことを学習記録としてポッドキャスト化して学習記録として残していけば、多くの人と知識の共有ができる場になるはずです。
-
-実際に動画を撮ったり、音声を録音する手間が掛からないため、ナレッジをストック、配信するハードルは格段に低く、コンテンツの作成の効率化、スピードアップも見込めます。
+機能はシンプルですが、AI の機能をさらにプラスしていくことで、運用のしやすいプラットフォームの構築が可能です。
